@@ -1,0 +1,18 @@
+# Ambiente virtual
+venv/
+.env/
+__pycache__/
+*.pyc
+
+# Arquivos de banco e cache
+db.sqlite3
+*.log
+
+# Configurações do sistema
+.DS_Store
+*.code-workspace
+
+# Arquivos temporários
+*.bak
+*.swp
+*.tmp
